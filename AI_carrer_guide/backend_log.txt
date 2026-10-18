@@ -1,0 +1,7 @@
+Using seeded in-memory graph; skipping FalkorDB bootstrap.
+INFO:     127.0.0.1:51209 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51210 - "GET /api/v1/student/seed-student-001 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51211 - "GET /api/v1/opportunities?student_id=seed-student-001&limit=3&include_demo=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55433 - "GET /?utm_source=chatgpt.com HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55433 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:51169 - "GET / HTTP/1.1" 200 OK

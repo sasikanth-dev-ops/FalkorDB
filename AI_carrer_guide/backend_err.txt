@@ -1,0 +1,5 @@
+INFO:     Started server process [28508]
+INFO:     Waiting for application startup.
+FalkorDB not reachable at localhost:6379 (Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.). Activating seeded in-memory graph engine.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
