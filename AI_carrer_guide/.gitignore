@@ -10,3 +10,9 @@ htmlcov/
 .mypy_cache/
 data/
 chroma_data/
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Railway / deployment artifacts
+*.log
